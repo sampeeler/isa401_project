@@ -1,4 +1,4 @@
-# Loading proper libraries
+# Loading needed libraries
 library(rvest)
 library(lubridate)
 library(dplyr)
